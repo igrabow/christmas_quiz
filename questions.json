@@ -1,0 +1,124 @@
+{ "data":
+    [
+        {
+            "question": "😀 🎄 🌎",
+            "answer": "Fröhliche Weihnacht' überall",
+            "audio_file": "froehliche_weihnacht.mp3"
+        },
+        {
+            "question": "🧒🧒🧒 👉",
+            "answer": "Ihr Kinderlein kommet",
+            "audio_file": "ihr_kinderlein_kommet.mp3"
+        },
+        {
+            "question": "🔉 🔔 🔉🔉🔉",
+            "answer": "Kling', Glöckchen",
+            "audio_file": "kling_gloeckchen.mp3"
+        },
+        {
+            "question": "👉 👨🐑👨🐑",
+            "answer": "Kommet ihr Hirten",
+            "audio_file": "kommet_ihr_hirten.mp3"
+        },
+        {
+            "question": "🔇 🌨️ ❄️ ",
+            "answer": "Leise rieselt der Schnee",
+            "audio_file": "leise_rieselt_der_schnee.mp3"
+        },
+        {
+            "question": "👆 🚪 🚪 👐",
+            "answer": "Macht hoch die Tür, die Tor macht weit",
+            "audio_file": "macht_hoch_die_tuer.mp3"
+        },
+        {
+            "question": "📆 🧒🧒🧒 🎉",
+            "answer": "Morgen, Kinder, wird's was geben",
+            "audio_file": "morgen_kinder_wirds_was_geben.mp3"
+        },
+        {
+            "question": "😱 😀 😱 😇",
+            "answer": "O du Fröhliche",
+            "audio_file": "o_du_froehliche.mp3"
+        },
+        {
+            "question": "😱 🎄 😱 🎄",
+            "answer": "Oh Tannenbaum",
+            "audio_file": "o_tannenbaum.mp3"
+        },
+        {
+            "question": "❄️❄️ ⚪👗",
+            "answer": "Schneeflöckchen Weißröckchen",
+            "audio_file": "schneefloeckchen.mp3"
+        },
+        {
+            "question": "🍰 🔔 🔇",
+            "answer": "Süßer die Glocken nie klingen",
+            "audio_file": "suesser_die_glocken_nie_klingen.mp3"
+        },
+        {
+            "question": "🤫 🌃 😇 🌃 ",
+            "answer": "Stille Nacht, heilige Nacht",
+            "audio_file": "stille_nacht_heilige_nacht.mp3"
+        },
+        {
+            "question": "🔔 🎸",
+            "answer": "Jingle Bell Rock",
+            "audio_file": "jingle_bell_rock.mp3"
+        },
+        {
+            "question": "🎅 👶",
+            "answer": "Santa Baby",
+            "audio_file": "santa_baby.mp3"
+        },
+        {
+            "question": "⬅️  🎄",
+            "answer": "Last Christmas",
+            "audio_file": "last_christmas.mp3"
+        },
+        {
+            "question": "🚗 🏠 🎄",
+            "answer": "Driving home for Christmas",
+            "audio_file": "driving_home_for_christmas.mp3"
+        },
+        {
+            "question": "🎅 👉 🏘️ ",
+            "answer": "Santa Claus is coming to town",
+            "audio_file": "santa_claus_is_coming_to_town.mp3"
+        },
+        {
+            "question": "🔴 👃 🦌",
+            "answer": "Rudolph the red nosed reindeer",
+            "audio_file": "rudolph_the_red_nosed_reindeer.mp3"
+        },
+        {
+            "question": "🎶 🔔🔔🔔",
+            "answer": "Carol of the bells",
+            "audio_file": "carol_of_the_bells.mp3"
+        },
+        {
+            "question": "🎸 🔁 🎄",
+            "answer": "Rockin' Around the Christmas Tree",
+            "audio_file": "rockin_around_the_christmas_tree.mp3"
+        },
+        {
+            "question": "⚪ 🎄",
+            "answer": "White Christmas",
+            "audio_file": "white_christmas.mp3"
+        },
+        {
+            "question": "🎅 💬",
+            "answer": "Santa tell me",
+            "audio_file": "santa_tell_me.mp3"
+        },
+        {
+            "question": "🎬 👀 🎄",
+            "answer": "It's beginning to look a lot like Christmas",
+            "audio_file": "its_beginning_to_look_a_lot_like_christmas.mp3"
+        },
+        {
+            "question": "🎄 🥚🥛🧁🍰🍪",
+            "answer": "In der Weihnachtsbäckerei",
+            "audio_file": "in_der_weihnachtsbaeckerei.mp3"
+        }
+    ]
+}

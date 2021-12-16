@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% import 'bootstrap/wtf.html' as wtf %}
+
+{% block app_content %}
+    <h4>Welches Weihnachtslied verbirgt sich hinter diesen Emojis?</h4>
+  {% if question %}
+    <div class="question">
+    {{ question }}
+    </div>
+  {% endif %}
+  <br><br>
+  {% if audio_file %}
+    <div>
+    <audio controls>
+      <source src="{{ url_for('static', filename=audio_file) }}" type="audio/mpeg">
+    </audio>
+    </div>
+  {% endif %}
+  {% if form %}
+    {{ wtf.quick_form(form) }}
+    <br>
+  {% endif %}
+  {% if players %}
+  <p>Punktestand</p>
+  {{ players }}
+  <br>
+  {% endif %}
+{% endblock %}
